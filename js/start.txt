@@ -1,2 +1,0 @@
-start %localappdata%\\temp\\rundll32.exe
-exit
